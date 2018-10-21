@@ -7,4 +7,10 @@ public interface CustomList <E> {
     public int size();
 
 
+    public void printList();
+
+    public void addTail(E e);
+    public void find(int index);
+    public void remove ();
+
 }
