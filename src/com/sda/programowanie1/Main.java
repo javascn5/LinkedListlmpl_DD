@@ -11,6 +11,7 @@ public class Main {
         customList.add("Jeden");
         customList.add("Dwa");
         customList.add("Trzy");
+        customList.add("Cztery");
 
 
 
